@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <p> </br>
 
-- 📫 To reach me **sedaatalay96@gmail.com**
+📫 To reach me **sedaatalay96@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/seda-atalay-9b9173149/](https://www.linkedin.com/in/seda-atalay-9b9173149/)
+📄 Know about my experiences [https://www.linkedin.com/in/seda-atalay-9b9173149/](https://www.linkedin.com/in/seda-atalay-9b9173149/)
 
 <p> </br>
 
