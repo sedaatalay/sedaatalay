@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
  📄 Know about my experiences [https://www.linkedin.com/in/seda-atalay-9b9173149/](https://www.linkedin.com/in/seda-atalay-9b9173149/)
 
+<p> </br>
 
 <h3 align="left">Happy to connect!</h3>
 <p align="left">
