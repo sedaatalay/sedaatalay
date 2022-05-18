@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sedaatalay/sedaatalay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,25 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> Happy to connect!
-<p>
-  <a href="https://www.linkedin.com/in/seda-atalay-9b9173149/" rel="nofollow noreferrer"> <img src=![l](https://user-images.githubusercontent.com/91700155/168982880-9f738ad7-a0b0-4ee0-a580-0c37123391e9.png) > LinkedIn
-  </a> &nbsp; 
-  <a href="https://medium.com/@sedaatalay" rel="nofollow noreferrer"> <img src=![indir](https://user-images.githubusercontent.com/91700155/168981997-8e8e87b4-6993-429d-bbfc-78fec5fb51f5.png) > Medium
-  </a>
-</p>
-
-
------
-
-
-
 
 <h1 align="center">Hi 👋, I'm Seda</h1>
 
-
-- 📝 I regularly write articles on [https://themeansquare.medium.com](https://themeansquare.medium.com)
-
-- 💬 Ask me about **Machine Learning, MLOps, Google Cloud Platform, Docker & Kubernetes**
 
 - 📫 How to reach me **sedaatalay96@gmail.com**
 
@@ -42,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="left">Happy to connect!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/seda-atalay-9b9173149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seda-atalay-9b9173149/" height="30" width="40" /></a>
-<a href="https://medium.com/@sedaatalay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" scr="![medium-2177](https://user-images.githubusercontent.com/91700155/169049049-456dbd0b-8172-4d77-9d88-07192d84585d.png)" alt="@sedaatalay" height="30" width="40" /></a>
+<a href="https://medium.com/@sedaatalay" target="blank"><img align="center" scr="![medium-2177](https://user-images.githubusercontent.com/91700155/169049049-456dbd0b-8172-4d77-9d88-07192d84585d.png)" alt="@sedaatalay" height="30" width="40" /></a>
 </p>
 
 
