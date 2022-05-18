@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Seda</h1>
 
 
-- 📫 How to reach me **sedaatalay96@gmail.com**
+- 📫 To reach me **sedaatalay96@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/seda-atalay-9b9173149/](https://www.linkedin.com/in/seda-atalay-9b9173149/)
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="left">Happy to connect!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/seda-atalay-9b9173149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seda-atalay-9b9173149/" height="30" width="40" /></a>
-<a href="https://medium.com/@sedaatalay" target="blank"><img align="center" scr="![medium-2177](https://user-images.githubusercontent.com/91700155/169049049-456dbd0b-8172-4d77-9d88-07192d84585d.png)" alt="@sedaatalay" height="30" width="40" /></a>
+<a href="https://medium.com/@sedaatalay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sedaatalay" height="30" width="40" /></a>
 </p>
 
 
