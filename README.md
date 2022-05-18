@@ -20,5 +20,3 @@ Here are some ideas to get you started:
   <a href="https://medium.com/@sedaatalay" rel="nofollow noreferrer"> <img src=![indir](https://user-images.githubusercontent.com/91700155/168981997-8e8e87b4-6993-429d-bbfc-78fec5fb51f5.png) > Medium
   </a>
 </p>
-
-![l](https://user-images.githubusercontent.com/91700155/168983306-f775f7bb-6b90-4986-ade3-1ae7fd9884bc.png)
