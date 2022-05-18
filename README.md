@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📲 Know about my experiences [https://www.linkedin.com/in/seda-atalay-9b9173149/](https://www.linkedin.com/in/seda-atalay-9b9173149/)
 
-📋 Also may my current articles [https://medium.com/@sedaatalay](https://medium.com/@sedaatalay)
+📋 Also may check my current articles [https://medium.com/@sedaatalay](https://medium.com/@sedaatalay)
 
 
 <h3 align="left">Happy to connect!</h3>
