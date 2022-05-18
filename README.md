@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Seda</h1>
+<h1 align="center">Hi there 👋, I'm Seda</h1>
 
 
 - 📫 How to reach me **sedaatalay96@gmail.com**
