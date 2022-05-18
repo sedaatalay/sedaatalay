@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - <i class="fa fa-so"></i> https://www.linkedin.com/in/seda-atalay-9b9173149/
 <p>
   <a href="https://www.linkedin.com/in/seda-atalay-9b9173149/" rel="nofollow noreferrer">
-    <img src=![Illustration-of-Linkedin-icon-on-transparent-background-PNG](https://user-images.githubusercontent.com/91700155/168981842-ea531df4-e6c1-4148-961e-f4d2d216dd02.png) alt="linkedin"> LinkedIn
+    <img src=![Illustration-of-Linkedin-icon-on-transparent-background-PNG](https://user-images.githubusercontent.com/91700155/168981842-ea531df4-e6c1-4148-961e-f4d2d216dd02.png)> LinkedIn
   </a> &nbsp; 
   <a href="https://medium.com/@sedaatalay" rel="nofollow noreferrer">
-    <img src=![indir](https://user-images.githubusercontent.com/91700155/168981997-8e8e87b4-6993-429d-bbfc-78fec5fb51f5.png) alt="github"> Medium
+    <img src=![indir](https://user-images.githubusercontent.com/91700155/168981997-8e8e87b4-6993-429d-bbfc-78fec5fb51f5.png)> Medium
   </a>
 </p>
