@@ -54,8 +54,7 @@ Here are some ideas to get you started:
 
 <p>
 
-[![Seda’s github stats](https://github-readme-stats.vercel.app/api?username=sedaatalay)](https://github.com/sedaatalay)
-![Seda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedaatalay&show_icons=true&theme=radical)
+![Seda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedaatalay&show_icons=true&theme=cobalt)
   
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=sedaatalay.sedaatalay)](https://www.seda.dev/)
   
