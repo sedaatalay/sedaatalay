@@ -12,7 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align=”center”>
+  
+<img src=”![Retro Sparkles GIF Google Classroom Header](https://user-images.githubusercontent.com/91700155/169372529-b2af36c6-0d22-467e-8fb1-bbe77e5cee93.gif)" alt=”my banner”>
+                                                                                                               
+</p>
+                                                                                                               
+                                                                                                               
 <h1 align="center">Hi there 👋, I'm Seda</h1>
 
 <p> </br>
