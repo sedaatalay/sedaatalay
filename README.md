@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 #### 📈 GitHub Stats 
 
 ![Seda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedaatalay&show_icons=true&theme=radical)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedaatalay&layout=compact)](https://github.com/sedaatalay/github-readme-stats)
   
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=sedaatalay.sedaatalay)](https://www.seda.dev/)
   
