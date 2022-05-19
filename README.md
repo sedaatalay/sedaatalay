@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <p>
   
-#### 📈 GitHub Stats 
+### 📈 GitHub Stats 
 
 ![Seda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedaatalay&show_icons=true&theme=radical)
   
