@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align=”center”>
   
-![Retro Sparkles GIF Google Classroom Header](https://user-images.githubusercontent.com/91700155/169374377-de2f73aa-0487-47d4-b687-e8a1dc89bdbd.gif)
+![Retro Sparkles GIF Google Classroom Header (1)](https://user-images.githubusercontent.com/91700155/169376235-d555a05a-d9b1-4f26-ac23-e14024dedcce.gif)
                                                                                                                
 </p>
                                                                                                                
