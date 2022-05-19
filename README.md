@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <p>
 
-![Seda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedaatalay&show_icons=true&theme=dark)
+![Seda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedaatalay&show_icons=true&theme=radical)
   
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=sedaatalay.sedaatalay)](https://www.seda.dev/)
   
