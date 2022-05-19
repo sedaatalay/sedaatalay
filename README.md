@@ -52,5 +52,10 @@ Here are some ideas to get you started:
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="ubuntu" width="40" height="40"/> </a> </p>
 
+
+[![Seda’s github stats](https://github-readme-stats.vercel.app/api?username=sedaatalay)](https://github.com/sedaatalay)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedaatalay&layout=compact)](https://github.com/sedaatalay)
+
 © 2022 GitHub, Inc.
 
