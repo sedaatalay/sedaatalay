@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 
 [![Seda’s github stats](https://github-readme-stats.vercel.app/api?username=sedaatalay)](https://github.com/sedaatalay)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedaatalay&layout=compact)](https://github.com/sedaatalay)
 
 © 2022 GitHub, Inc.
 
