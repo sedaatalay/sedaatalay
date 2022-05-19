@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 
 ### 📝 Latest Posts
 
+- [Improve AWS EC2 Performance](https://github.com/sedaatalay/Improve-AWS-EC2-Performance)
 - [Spark Configuration Optimization](https://github.com/sedaatalay/SPARK-CONFIGURATION-OPTIMIZATION)
 - [Apache Spark Examples with Amazon EMR and S3 Services using Jupyter Notebook](https://medium.com/@sedaatalay/spark-based-etl-on-emr-14b790cb0df3)
 - [Add an Emoji 😎 to Your LinkedIn Profile with a Simple ✂ Copy and 📋 Paste](https://medium.com/@sedaatalay/add-an-emoji-to-your-linkedin-profile-with-a-simple-copy-and-paste-d362d429dab2)
