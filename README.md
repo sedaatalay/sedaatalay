@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 📬 To reach me **sedaatalay96@gmail.com**
 
-📲 Know about my experiences [https://www.linkedin.com/in/seda-atalay/](https://www.linkedin.com/in/seda-atalay-9b9173149/)
+📲 Know about my experiences [https://www.linkedin.com/in/seda-atalay](https://www.linkedin.com/in/seda-atalay-9b9173149/)
 
 📋 Also may check my current articles [https://medium.com/@sedaatalay](https://medium.com/@sedaatalay)
 
