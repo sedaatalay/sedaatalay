@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 - [Improve AWS EC2 Performance](https://github.com/sedaatalay/Improve-AWS-EC2-Performance)
 - [Spark Configuration Optimization](https://github.com/sedaatalay/SPARK-CONFIGURATION-OPTIMIZATION)
-- https://medium.com/@sedaatalay/automatic-deploying-with-jenkins-on-an-aws-ec2-instance-includes-github-docker-git-f052aab308d4
+- [Automatic Deploying with Jenkins on an AWS EC2 Instance (Includes GitHub-Docker-Git)](https://medium.com/@sedaatalay/automatic-deploying-with-jenkins-on-an-aws-ec2-instance-includes-github-docker-git-f052aab308d4)
 
 ### 📈 GitHub Stats 
 
